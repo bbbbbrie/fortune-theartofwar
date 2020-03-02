@@ -11,3 +11,5 @@ Use Docker:
 ```
 docker run brie/fortune-theartofwar 
 ```
+
+[![asciicast](https://asciinema.org/a/306387.svg)](https://asciinema.org/a/306387)
